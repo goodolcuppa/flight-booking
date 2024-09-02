@@ -1,0 +1,4 @@
+1::Bob::07596454545::fakeaddress@gmail.com::true::
+2::Test::999::testmail@gmail.com::true::
+3::droptable::505::fake@notmail.com::true::
+4::Ben::999::fake@gmail.com::false::
